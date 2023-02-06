@@ -38,13 +38,13 @@ body h1 {
   cursor: pointer;
 }
 .guess-my-number {
-  background-image: url(../img/number.png);
+  background-image: url(./img/number.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .pig-game {
-  background-image: url(../img/pig-game.png);
+  background-image: url(./img/pig-game.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
